@@ -5,7 +5,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 public class InsultGenerator {
-	public String generateInsult() {}
+	public String generateInsult() {
 		String vowels = "AEIOU";
 		String article = "an";
 		String theInsult = "";
